@@ -13,8 +13,8 @@
   <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" remote="muppets" />
   <project name="caseykelso/android_device_lge_rs988" path="device/lge/rs988" remote="muppets" />
   <project name="caseykelso/proprietary_vendor_lge" path="vendor/lge" remote="muppets" />
-  <project name="caseykelso/device_lge_g5-common"   path="device/lge/g5-common" remote="muppets" />
+  <project name="caseykelso/android_device_lge_g5-common"   path="device/lge/g5-common" remote="muppets" />
   <project name="caseykelso/android_device_lge_msm8996-common" path="device/lge/msm8996-common" remote="muppets"  />
-  <project name="caseykelso/android_kernel_lge_rs988" path="kernel/lge/msm8996" remote="muppets" revision="master"  />
+  <project name="LineageOS/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="muppets"   />
 </manifest>
 
